@@ -1,0 +1,74 @@
+--Ultimate Calculator Ripoff (V.1)
+--By Mudilist
+
+Y = 0 ---Smaller number
+X = 0 ---Bigger number
+    
+a = Y + X
+
+print(a)print("addition")
+
+------------------------
+
+n = 0 ---Bigger number
+m = 0 ---Smaller number
+
+f = m - n
+
+print(f)print("subtraction")
+
+------------------------
+
+
+e = 0 ---Bigger number
+f = 0 ---Smaller number
+
+r=e*f
+
+print(r)print("multiplication")
+
+------------------------
+
+q = 0 ---Bigger number
+i = 0 ---Smaller number
+
+b=q/i
+
+print(b)print("division")
+
+-----------------------
+
+l = 0 ---Principal
+k = 0 ---Rate
+j = 0 ---Time(years)
+
+o = l*(1+k*j)
+
+print(o)print("simple intrest")
+
+-----------------------
+
+P = 0 ---Principal
+R = 0 ---Rate
+T = 0 ---Time(years)
+
+A = P*1+R*T^2
+
+print(A)print("compound interest")
+
+-----------------------
+
+h = 0
+r = 0
+v = 3.14*r*r*h
+print(v)print("Volume of the Cylinder")
+
+-----------------------
+
+--N O T E S
+
+--I'm in no way finished with this thing, and i plan to add more to this in the future.
+--If you want me to add something dm me on discord. (Cheweyy#3205)
+
+--P L A N S  F O R  F E A T U R E S
+--I plan on adding a fraction to decimal converter, and radius of a cylinder calculator.
