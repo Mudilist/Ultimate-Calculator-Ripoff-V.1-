@@ -1,6 +1,6 @@
 --Ultimate Calculator Ripoff (V.1)
 --By Mudilist
-
+--Coding language: Lua
 Y = 0 ---Smaller number
 X = 0 ---Bigger number
     
