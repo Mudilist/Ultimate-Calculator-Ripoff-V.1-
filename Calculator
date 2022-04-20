@@ -1,7 +1,9 @@
+
+  
 --Ultimate Calculator Ripoff (V.1)
 --By Mudilist
 --Coding language: Lua
-
+print(os.date())
 Y = 0 ---Smaller number
 X = 0 ---Bigger number
     
@@ -65,11 +67,14 @@ v = 3.14*r*r*h
 print(v)print("Volume of the Cylinder")
 
 -----------------------
-
 --N O T E S
 
 --I'm in no way finished with this thing, and i plan to add more to this in the future.
 --If you want me to add something dm me on discord. (Cheweyy#3205)
-
+-----------------------
 --P L A N S  F O R  F E A T U R E S
 --I plan on adding a fraction to decimal converter, and radius of a cylinder calculator.
+----------------------
+--D E V L O G
+
+--Added clock for some reason
