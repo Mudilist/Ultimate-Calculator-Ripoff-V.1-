@@ -1,4 +1,4 @@
---Ultimate Calculator Ripoff (V.1)
+--Ultimate Calculator Ripoff (V.3)
 --By Mudilist
 --Coding language: Lua
 print(os.date())
