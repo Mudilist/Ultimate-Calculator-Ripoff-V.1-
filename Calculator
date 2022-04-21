@@ -1,3 +1,5 @@
+
+  
 --Ultimate Calculator Ripoff (V.4)
 --By Mudilist
 --Coding language: Lua
@@ -77,6 +79,9 @@ K = 0 --Numerator
 H = 0 --Denominator
 Z = K/H
 print(Z)print("fraction to decimal")
+
+-----------------------
+
 --N O T E S
 
 --I'm in no way finished with this thing, and i plan to add more to this in the future.
