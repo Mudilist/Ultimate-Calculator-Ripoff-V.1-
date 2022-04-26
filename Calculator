@@ -1,6 +1,4 @@
-
-  
---Ultimate Calculator Ripoff (V.4)
+--Ultimate Calculator Ripoff (V.1)
 --By Mudilist
 --Coding language: Lua
 print(os.date())
@@ -75,23 +73,23 @@ print(B)print("scientific notation")
 
 -----------------------
 
-K = 0 --Numerator
-H = 0 --Denominator
-Z = K/H
-print(Z)print("fraction to decimal")
+L = 0 --Numerator
+G = 0 --Denominator
+M = L/G*100
+print(M)print("fraction to Percent")
 
 -----------------------
 
 --N O T E S
 
---I'm in no way finished with this thing, and i plan to add more to this in the future.
+--I'm in no way finished with this thing, and I plan to add more to this in the future.
 --If you want me to add something dm me on discord. (Cheweyy#3205)
 -----------------------
---P L A N S
---radius of a cylinder calculator.
+--P L A N S  F O R  F E A T U R E S
+--I plan on adding a fraction to decimal converter, and radius of a cylinder calculator.
 ----------------------
 --D E V L O G
 
 --Added clock for some reason
 --Added scientific notation converter
---Added fraction to decimal converter
+--Added fraction to percent converter
